@@ -21,3 +21,4 @@
 /home/theo/RiderProjects/DapperFundamental/DapperFundamental/obj/Debug/net8.0/DapperFundamental.pdb
 /home/theo/RiderProjects/DapperFundamental/DapperFundamental/obj/Debug/net8.0/DapperFundamental.genruntimeconfig.cache
 /home/theo/RiderProjects/DapperFundamental/DapperFundamental/obj/Debug/net8.0/ref/DapperFundamental.dll
+/home/theo/RiderProjects/DapperFundamental/DapperFundamental/obj/Debug/net8.0/DapperFundamental.sourcelink.json
