@@ -2,7 +2,9 @@
 
 ``` bash
 install dapper using nugget
-install System.Data.Client or Npgsql, or etc
+install System.Data.Client if you using SQL server
+or Npgsql if you using postgresql
+or etc
 ```
 
   - Insert data,
